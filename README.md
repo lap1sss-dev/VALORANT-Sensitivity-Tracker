@@ -29,9 +29,12 @@ APIキーの取得手順については、[こちらのブログ](https://scrub.
 Tesseract OCRの導入: 文字認識を行うため、PCに Tesseract OCR がインストールされている必要があります。
 ※ .exe単体で動作しますが、文字読み取り機能にのみ必要です。
 1,[このURL](https://github.com/UB-Mannheim/tesseract/wiki)からインストーラーをダウンロード
+
 2,tesseract-ocr-w64-setup-5.x.x.exe を実行
 （設定は全部デフォルトのままNextを押すだけでOK）
+
 3,「Tesseractパス」の欄にインストール先のパスを入力して保存
+
 パスの確認方法：
 デフォルトでインストールした場合は以下
 C:\Program Files\Tesseract-OCR\tesseract.exe
