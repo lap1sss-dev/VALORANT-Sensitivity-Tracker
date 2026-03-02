@@ -21,9 +21,9 @@
 
 ダウンロード: 右側の「Releases」から最新の .exe ファイルをダウンロードしてください。
 
-APIキーの設定: https://github.com/Henrik-3/unofficial-valorant-api?tab=readme-ov-file　　からDiscordに入室しAPIキーを入手。
+APIキーの設定: https://github.com/Henrik-3/unofficial-valorant-api?tab=readme-ov-fileからDiscordに入室しAPIキーを入手。
 アプリ内の設定タブに、自身の HenrikDev API Key を入力します。
-APIキーの取得手順については、こちらの解説ブログ(　https://scrub.blog/valorant-rank-overlay-20240923/　)が非常に分かりやすいです。
+APIキーの取得手順については、こちらの解説ブログ(https://scrub.blog/valorant-rank-overlay-20240923/)が非常に分かりやすいです。
 
 Tesseract OCRの導入: 文字認識を行うため、PCに Tesseract OCR がインストールされている必要があります。
 ※ .exe単体で動作しますが、文字読み取り機能にのみ必要です。
