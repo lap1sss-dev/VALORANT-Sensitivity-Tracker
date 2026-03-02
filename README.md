@@ -1,10 +1,10 @@
 # VALORANT-Sensitivity-Tracker
 ～データと統計で、エイムの「正解」を見つける～
 
-プロジェクト概要 / Project Overview
+・プロジェクト概要 / Project Overview
 このアプリは、統計的なパフォーマンスデータを用いて、プレイヤーが自分に最適なマウス感度を科学的に特定するための「試合後レビュー」ツールです。
 
-主な機能 / Key Features
+・主な機能 / Key Features
 感度の自動記録 (Smart OCR): ホットキーを押すだけで、ゲーム内設定画面から感度を自動抽出。
 
 スタッツ同期 (Match History): HenrikDev APIを使用し、直近の試合データを自動取得。
@@ -13,7 +13,7 @@
 
 プロ・ベンチマーク (Benchmarks): Meiy選手など、トッププロの統計値と比較可能。
 
-導入方法 / How to Use
+・導入方法 / How to Use
 ダウンロード: 右側の「Releases」から最新の .exe ファイルをダウンロードしてください。
 
 APIキーの設定: https://github.com/Henrik-3/unofficial-valorant-api?tab=readme-ov-file　からDiscordに入室しAPIキーを入手。
