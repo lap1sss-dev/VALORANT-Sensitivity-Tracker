@@ -1,12 +1,12 @@
 [
-  {
-    "name": "Zekken",
-    "team": "Sentinels",
-    "kd": 1.32,
-    "acs": 245.0,
-    "stability": 4.5,
-    "avg_dmg": 145.0,
-    "hs": 28.3,
-    "note": "30試合平均 (2025年)"
-  }
+ {
+  "name": "DFM Meiy",
+  "team": "DFM",
+  "kd": 1.29,
+  "acs": 279.7,
+  "stability": 4.62,
+  "avg_dmg": 176.4,
+  "hs": 25.6,
+  "note": "V26A1 30試合平均"
+}
 ]
