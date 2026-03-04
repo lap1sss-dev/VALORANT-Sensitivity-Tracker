@@ -1,7 +1,6 @@
 [
   {
     "name": "DFM Meiy",
-    "team": "DFM",
     "kd": 1.29,
     "acs": 279.7,
     "stability": 4.62,
@@ -11,7 +10,6 @@
   },
   {
     "name": "PRX something",
-    "team": "PRX",
     "kd": 1.25,
     "acs": 253.9,
     "stability": 3.83,
@@ -21,7 +19,6 @@
   },
   {
     "name": "PRX f0rsakeN",
-    "team": "PRX",
     "kd": 1.1,
     "acs": 248,
     "stability": 4.36,
