@@ -9,4 +9,24 @@
   "hs": 25.6,
   "note": "V26A1 30試合平均"
 }
+ {
+  "name": "PRX something",
+  "team": "PRX",
+  "kd": 1.25,
+  "acs": 253.9,
+  "stability": 3.83,
+  "avg_dmg": 163.7,
+  "hs": 37.6,
+  "note": "V26A1 30試合平均"
+}
+ {
+  "name": "PRX f0rsakeN",
+  "team": "PRX",
+  "kd": 1.1,
+  "acs": 248,
+  "stability": 4.36,
+  "avg_dmg": 161.8,
+  "hs": 36.3,
+  "note": "V26A1 30試合平均"
+}
 ]
