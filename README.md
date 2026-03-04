@@ -21,7 +21,7 @@
 
 ダウンロード: 右側の「Releases」から最新の .exe ファイルをダウンロードしてください。
 
-APIキーの設定: [公式github](https://github.com/Henrik-3/unofficial-valorant-api?tab=readme-ov-file)からDiscordに入室しAPIキーを入手。
+APIキーの設定: [henrikdev　github](https://github.com/Henrik-3/unofficial-valorant-api?tab=readme-ov-file)からDiscordに入室しAPIキーを入手。
 アプリ内の設定タブに、自身の HenrikDev API Key を入力します。
 
 APIキーの取得手順については、[こちらのブログ](https://scrub.blog/valorant-rank-overlay-20240923/)が非常に分かりやすいです。
