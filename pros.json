@@ -6,7 +6,7 @@
     "stability": 4.62,
     "avg_dmg": 176.4,
     "hs": 25.6,
-    "note": "V26A1 30試合平均"
+    "note": "30試合平均"
   },
   {
     "name": "PRX something",
@@ -15,7 +15,7 @@
     "stability": 3.83,
     "avg_dmg": 163.7,
     "hs": 37.6,
-    "note": "V26A1 30試合平均"
+    "note": "30試合平均"
   },
   {
     "name": "PRX f0rsakeN",
@@ -24,6 +24,15 @@
     "stability": 4.36,
     "avg_dmg": 161.8,
     "hs": 36.3,
-    "note": "V26A1 30試合平均"
-  }
+    "note": "30試合平均"
+  },
+  {
+  "name": "FNC Alfajer",
+  "kd": 1.18,
+  "acs": 244.8,
+  "stability": 4.31,
+  "avg_dmg": 163.8,
+  "hs": 35.8,
+  "note": "30試合平均"
+}
 ]
