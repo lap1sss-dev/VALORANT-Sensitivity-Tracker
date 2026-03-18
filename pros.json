@@ -34,5 +34,23 @@
   "avg_dmg": 163.8,
   "hs": 35.8,
   "note": "30試合平均"
+},
+  {
+  "name": "NS Dambi",
+  "kd": 1.25,
+  "acs": 273.1,
+  "stability": 3.53,
+  "avg_dmg": 168.8,
+  "hs": 25,
+  "note": "30試合平均"
+},
+  {
+  "name": "T1 Meteor",
+  "kd": 1.18,
+  "acs": 243.4,
+  "stability": 4.69,
+  "avg_dmg": 157.9,
+  "hs": 36.5,
+  "note": "30試合平均"
 }
 ]
